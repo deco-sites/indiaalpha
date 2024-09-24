@@ -49,7 +49,7 @@ export default function Header({
       {/* main content */}
       <div class="drawer-content container lg:px-0 px-4 flex gap-8 items-center justify-between py-4">
         <a href="/">
-          <Image src={logo.src || ""} width={100} height={28} alt={logo.alt} />
+          <Image src={logo.src || ""} width={100} height={28} alt={logo.alt} class="h-auto" />
         </a>
 
         <div class="hidden items-center justify-between lg:flex w-full">
@@ -106,6 +106,7 @@ export default function Header({
               src={logo.src || ""}
               width={100}
               height={28}
+              class="h-auto"
               alt={logo.alt}
             />
           </a>
