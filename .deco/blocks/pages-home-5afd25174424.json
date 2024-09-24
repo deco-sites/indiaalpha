@@ -10,14 +10,15 @@
       },
       "logo": {
         "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/f678dc46-35f6-4675-a71d-28d6b4610ba8/IA-6.png"
-      }
+      },
+      "backgroundColor": "#1d1d1d"
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
+      "title": "<p><strong><span style=\"font-size: 25pt\">Crafting Purpose-Driven Brands</span></strong></p>",
       "cta": [],
       "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away.",
-      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/053bdea6-464a-4777-b675-7b04c77d92bd/IA-5.png"
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/34c37b81-1b1e-430a-bccf-e8717eda4d10/3---KeyVisual.gif"
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
