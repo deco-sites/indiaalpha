@@ -67,12 +67,8 @@ export default function HeroFlats({
                 : "flex flex-col items-center justify-center lg:max-w-3xl"
             }`}
           >
-            <div
-              class="inline-block lg:text-[80px] text-4xl leading-none font-medium"
-              dangerouslySetInnerHTML={{
-                __html: title,
-              }}
-            >
+            <div class="inline-block lg:text-[80px] text-4xl leading-none font-medium">
+              {title}
             </div>
             <p class="text-lg md:text-md leading-[150%]">
               {description}
