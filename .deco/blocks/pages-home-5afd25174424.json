@@ -3,19 +3,36 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Header"
+      "__resolveType": "site/sections/Header.tsx",
+      "navigation": {
+        "links": [],
+        "buttons": []
+      },
+      "logo": {
+        "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/053bdea6-464a-4777-b675-7b04c77d92bd/IA-5.png"
+      }
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
       "title": "<p>Click here to tweak this text however you want.</p>",
       "cta": [],
-      "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
+      "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away.",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/053bdea6-464a-4777-b675-7b04c77d92bd/IA-5.png"
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
       "logos": [
         {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/a796591c-4733-471b-88d4-e0f5d84fdabd/privia_small.png"
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/4973c25d-329b-4d1f-8b52-b4fc31c998d2/Frame-1533210164.png"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/155d56fd-0c66-4289-9bcf-d81f0b5fcadd/Frame-1533210165.png"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/f0d9071e-3655-42d0-b82a-4eb7d8fb9e22/Frame-1533210166.png"
+        },
+        {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/19b7da42-7d20-45d3-9c05-190a87706ffe/Frame-1533210167.png"
         }
       ]
     },
