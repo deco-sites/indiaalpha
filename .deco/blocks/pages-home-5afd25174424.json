@@ -195,6 +195,17 @@
         "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/b6dbaba5-3f80-4c6a-90a7-16ecf8941907/IA-5.png",
         "copyrightText": "<p>2k24 - IndiaAlpha - Todos os Direitos Reservados</p>"
       }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/hero-1.tsx",
+        "title": "<p><strong><span style=\"color: oklch(0.31 0 0); font-size: 80px\">IndiaAlpha: Onde Histórias viram Marcas</span></strong></p>",
+        "subtitle": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações.",
+        "primaryCta": "Quero saber mais",
+        "primaryCtaUrl": "https://wa.me/5561982214588?text=Estou%20no%20site%20da%20IndiaAlpha%20e%20gostaria%20de%20mais%20informações",
+        "backgroundImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/a0e2ed9a-3ef3-4d61-a503-8248898afbdb/andreperotto__A_minimalist_branding_project_presentation_sleek__6a046df9-6103-4c4d-b352-27f4179977ca.png"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx",

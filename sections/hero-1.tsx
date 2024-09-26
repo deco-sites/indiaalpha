@@ -53,7 +53,7 @@ export default function Hero({
   return (
     <div class="hero min-h-screen" style={{ backgroundColor }}>
       <div class="hero-content flex-col lg:flex-row-reverse">
-        <img src={backgroundImage} class="max-w-sm rounded-lg shadow-2xl" alt="Hero" />
+        <img src={backgroundImage} class="w-full max-w-lg aspect-video object-cover rounded-lg shadow-2xl" alt="Hero" />
         <div>
           <h1 class="text-5xl font-bold" style={{ color: textColor }} dangerouslySetInnerHTML={{ __html: title }}></h1>
           <p class="py-6" style={{ color: textColor }}>{subtitle}</p>
