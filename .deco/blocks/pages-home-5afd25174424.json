@@ -18,7 +18,13 @@
       "section": {
         "__resolveType": "site/sections/Hero.tsx",
         "description": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações.",
-        "title": "<p>fdfdfdsfsdf</p>"
+        "title": "<p>IndiaAlpha: Onde Histórias viram Marcas</p>",
+        "cta": [
+          {
+            "text": "Quero saber Mais",
+            "href": "https://wa.me/5561982214588"
+          }
+        ]
       }
     },
     {
@@ -33,7 +39,11 @@
           "text": "Conversar no Whatsapp"
         }
       ],
-      "placement": "right"
+      "placement": "right",
+      "disableSpacing": {
+        "top": true,
+        "bottom": false
+      }
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
