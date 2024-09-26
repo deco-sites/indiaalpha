@@ -19,7 +19,13 @@
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/40393aeb-2c77-4105-ac34-c2afb68b3c9e/andreperotto__A_creative_branding_project_on_a_large_moodboard__f6c9572a-90d1-4135-ad91-1d0f03e973ee.png",
       "tagline": "#Branding #Rebranding #Naming",
       "description": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações.",
-      "title": "IndiaAlpha: Onde Histórias Viram Marcas"
+      "title": "IndiaAlpha: Onde Histórias Viram Marcas",
+      "cta": [
+        {
+          "href": "https://wa.me/5561982214588",
+          "text": "Conversar no Whatsapp"
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
