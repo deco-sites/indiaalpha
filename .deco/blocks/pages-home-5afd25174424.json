@@ -30,8 +30,28 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/RichTextSection.tsx",
-        "title": "Descubra as marcas que já fizeram história com a gente"
+        "__resolveType": "site/sections/Logos.tsx",
+        "title": "Descubra as marcas que já fizeram história com a gente",
+        "logos": [
+          {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/3ce7da16-5c41-412f-bb3e-5c502d4b8c62/Frame-1533210170.png"
+          },
+          {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/3607c9c4-2b9a-4ad0-a5a1-dd0ff18deade/Frame-1533210169.png"
+          },
+          {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/19b7da42-7d20-45d3-9c05-190a87706ffe/Frame-1533210167.png"
+          },
+          {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/f0d9071e-3655-42d0-b82a-4eb7d8fb9e22/Frame-1533210166.png"
+          },
+          {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/155d56fd-0c66-4289-9bcf-d81f0b5fcadd/Frame-1533210165.png"
+          },
+          {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/4973c25d-329b-4d1f-8b52-b4fc31c998d2/Frame-1533210164.png"
+          }
+        ]
       }
     },
     {
@@ -80,6 +100,42 @@
       "placement": "left",
       "disableSpacing": {
         "top": true,
+        "bottom": true
+      }
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "C7",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/ea54d4f3-54f5-4e83-91ed-577ae81f49f6/giffycanvas_c7.gif",
+      "tagline": "#Rebranding",
+      "description": "A C7 já era uma das agências mais respeitadas no setor automotivo, oferecendo soluções de inteligência digital para concessionárias em todo o Brasil. Ao procurar a IndiaAlpha, o objetivo era fortalecer essa posição e criar uma marca que refletisse sua expertise e impacto no mercado. A missão foi clara: desenvolver um branding que falasse diretamente às grandes concessionárias, mostrando a C7 como uma parceira indispensável na transformação digital. O resultado foi uma marca que respira inovação e liderança, comunicando com clareza o valor que a C7 entrega para seus clientes — inclusive alguns dos maiores grupos de concessionárias do país. Hoje, a C7 não é apenas uma agência, mas uma referência em inteligência digital automotiva no Brasil.",
+      "cta": [
+        {
+          "href": "https://wa.me/5561982214588",
+          "text": "Quero mais informações"
+        }
+      ],
+      "placement": "right",
+      "disableSpacing": {
+        "top": false,
+        "bottom": true
+      }
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "Privia",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/798a783a-7762-43fd-acaf-ee989e7572bc/giffycanvas_privia.gif",
+      "tagline": "#Naming #Branding",
+      "description": "Fomos responsáveis por criar o naming e branding da Privia, a marca de Jo Fernandez, uma consultora brasileira especializada em luxo, atuante na Flórida. A Privia nasceu para revolucionar o conceito de investimento imobiliário, conectando investidores internacionais ao sonho americano de maneira exclusiva e simplificada. Com o propósito de transformar vidas, a Privia vai além da simples venda de propriedades, oferecendo um estilo de vida de luxo acessível, segurança em transações de alto valor e uma experiência personalizada que redefine o padrão de vida.",
+      "cta": [
+        {
+          "href": "https://wa.me/5561982214588",
+          "text": "Quero mais informações"
+        }
+      ],
+      "placement": "left",
+      "disableSpacing": {
+        "top": false,
         "bottom": true
       }
     },
