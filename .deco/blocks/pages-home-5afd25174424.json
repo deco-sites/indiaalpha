@@ -106,6 +106,14 @@
             "position": "CEO - Privia",
             "description": "Fiquei feliz de ler e de fazer parte de uma das criações da IndiaAlpha, uma empresa que realmente pude sentir que tem significado e propósito.  Saiba que vocês fizeram muito mais do que eu poderia imaginar.   Eu realmente sonhava em ter uma marca incrível mas pensava que esse sonho estava longe, achava que seria difícil de acertar tudo, nome, marca, cores e etc.  Sentia que poderia ter algo legal mas em alguns anos apenas.   Mas Deus sabia o que eu realmente desejava e daí chegou vocês!   Você se conectou exatamente com a minha essência, meus sonhos e meus objetivos com o Real Estate e assim conseguiram criar a Privia que desde a primeira apresentação foi amor a primeira vista, tanto o nome quanto o branding. Sem alterações!"
           }
+        },
+        {
+          "content": {
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/e8674d73-7e25-4d66-ae48-dc959514c0be/IMG_0985-Photoroom.png",
+            "name": "Jo Fernandez",
+            "position": "CEO - Privia",
+            "description": "Fiquei feliz de ler e de fazer parte de uma das criações da IndiaAlpha, uma empresa que realmente pude sentir que tem significado e propósito.  Saiba que vocês fizeram muito mais do que eu poderia imaginar.   Eu realmente sonhava em ter uma marca incrível mas pensava que esse sonho estava longe, achava que seria difícil de acertar tudo, nome, marca, cores e etc.  Sentia que poderia ter algo legal mas em alguns anos apenas.   Mas Deus sabia o que eu realmente desejava e daí chegou vocês!   Você se conectou exatamente com a minha essência, meus sonhos e meus objetivos com o Real Estate e assim conseguiram criar a Privia que desde a primeira apresentação foi amor a primeira vista, tanto o nome quanto o branding. Sem alterações!"
+          }
         }
       ]
     },
@@ -113,7 +121,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/footer_indiaalpha.tsx",
-        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/053bdea6-464a-4777-b675-7b04c77d92bd/IA-5.png",
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/b6dbaba5-3f80-4c6a-90a7-16ecf8941907/IA-5.png",
         "backgroundColor": "#1b1b1b",
         "ctaText": "Entre em Contato",
         "textColor": "#ffffff"
