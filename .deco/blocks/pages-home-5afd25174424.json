@@ -14,42 +14,31 @@
       "backgroundColor": "#1d1d1d"
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Hero.tsx",
+        "description": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações.",
+        "title": "<p>ddd</p>"
+      }
+    },
+    {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "placement": "right",
+      "title": "IndiaAlpha: Onde Histórias Viram Marcas",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/40393aeb-2c77-4105-ac34-c2afb68b3c9e/andreperotto__A_creative_branding_project_on_a_large_moodboard__f6c9572a-90d1-4135-ad91-1d0f03e973ee.png",
       "tagline": "#Branding #Rebranding #Naming",
       "description": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações.",
-      "title": "IndiaAlpha: Onde Histórias Viram Marcas",
       "cta": [
         {
           "href": "https://wa.me/5561982214588",
           "text": "Conversar no Whatsapp"
         }
-      ]
-    },
-    {
-      "__resolveType": "site/sections/Logos.tsx",
-      "logos": [
-        {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/4973c25d-329b-4d1f-8b52-b4fc31c998d2/Frame-1533210164.png"
-        },
-        {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/155d56fd-0c66-4289-9bcf-d81f0b5fcadd/Frame-1533210165.png"
-        },
-        {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/f0d9071e-3655-42d0-b82a-4eb7d8fb9e22/Frame-1533210166.png"
-        },
-        {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/19b7da42-7d20-45d3-9c05-190a87706ffe/Frame-1533210167.png"
-        }
       ],
-      "title": "Brands"
+      "placement": "right"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/34c37b81-1b1e-430a-bccf-e8717eda4d10/3---KeyVisual.gif",
       "tagline": "#Rebranding",
-      "title": "Marca Veículos",
       "description": "A Marca Veículos chegou até a IndiaAlpha com o desafio de se reinventar. Com uma trajetória consolidada no mercado de seminovos, a empresa precisava de uma nova identidade que transmitisse confiança, credibilidade e uma experiência de compra superior. Nosso rebranding foi além de uma simples renovação visual; criamos uma marca que fala diretamente ao cliente que busca não apenas um veículo, mas uma relação de confiança com quem vende. O resultado foi uma identidade que combina modernidade, transparência e foco em atendimento personalizado, posicionando a Marca Veículos como referência no segmento de seminovos de qualidade.",
       "cta": [
         {
@@ -57,6 +46,7 @@
           "text": "Quero mais informações"
         }
       ],
+      "title": "Marca Veículos",
       "disableSpacing": {
         "top": true,
         "bottom": true
@@ -64,9 +54,9 @@
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/34c37b81-1b1e-430a-bccf-e8717eda4d10/3---KeyVisual.gif",
-      "tagline": "#Rebranding",
-      "title": "Marca Veículos",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/29d92505-b00f-4e38-a147-f3f1ae51278a/giffycanvas_norte.gif",
+      "tagline": "#Branding",
+      "title": "NorteCar",
       "description": "A Marca Veículos chegou até a IndiaAlpha com o desafio de se reinventar. Com uma trajetória consolidada no mercado de seminovos, a empresa precisava de uma nova identidade que transmitisse confiança, credibilidade e uma experiência de compra superior. Nosso rebranding foi além de uma simples renovação visual; criamos uma marca que fala diretamente ao cliente que busca não apenas um veículo, mas uma relação de confiança com quem vende. O resultado foi uma identidade que combina modernidade, transparência e foco em atendimento personalizado, posicionando a Marca Veículos como referência no segmento de seminovos de qualidade.",
       "cta": [
         {
