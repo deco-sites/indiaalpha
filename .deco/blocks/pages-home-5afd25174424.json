@@ -56,6 +56,43 @@
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/798a783a-7762-43fd-acaf-ee989e7572bc/giffycanvas_privia.gif",
+      "tagline": "#Naming #Branding",
+      "description": "Fomos responsáveis por criar o naming e branding da Privia, a marca de Jo Fernandez, uma consultora brasileira especializada em luxo, atuante na Flórida. A Privia nasceu para revolucionar o conceito de investimento imobiliário, conectando investidores internacionais ao sonho americano de maneira exclusiva e simplificada. Com o propósito de transformar vidas, a Privia vai além da simples venda de propriedades, oferecendo um estilo de vida de luxo acessível, segurança em transações de alto valor e uma experiência personalizada que redefine o padrão de vida.",
+      "cta": [
+        {
+          "href": "https://wa.me/5561982214588",
+          "text": "Quero mais informações"
+        }
+      ],
+      "title": "Privia",
+      "disableSpacing": {
+        "top": false,
+        "bottom": true
+      },
+      "placement": "left"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/1b5461f7-e269-4643-832a-a502818a2be1/giffycanvas_wesplit.gif",
+      "tagline": "#ReBranding",
+      "title": "We Split",
+      "description": "A WeSplit é uma Fintech com a missão de promover mudanças positivas e construir um futuro financeiro mais inclusivo para todos. A WeSplit oferece empréstimos para automóveis com taxa fixa e juros de 0%, com aprovação facilitada e limites de crédito mais altos. A WeSplit é mais do que uma plataforma de empréstimos, é uma solução comunitária projetada para desbloquear a acessibilidade a veículos e ajudar canadenses e recém-chegados a assumirem o controle de suas vidas financeiras. Foi fundada em 2023 por Marcelo Ribeiro e tem sua sede em Toronto, ON. (Canadá)",
+      "cta": [
+        {
+          "href": "https://wa.me/5561982214588",
+          "text": "Quero mais informações"
+        }
+      ],
+      "disableSpacing": {
+        "top": false,
+        "bottom": true
+      },
+      "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "Marca Veículos",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/34c37b81-1b1e-430a-bccf-e8717eda4d10/3---KeyVisual.gif",
       "tagline": "#Rebranding",
       "description": "A Marca Veículos chegou até a IndiaAlpha com o desafio de se reinventar. Com uma trajetória consolidada no mercado de seminovos, a empresa precisava de uma nova identidade que transmitisse confiança, credibilidade e uma experiência de compra superior. Nosso rebranding foi além de uma simples renovação visual; criamos uma marca que fala diretamente ao cliente que busca não apenas um veículo, mas uma relação de confiança com quem vende. O resultado foi uma identidade que combina modernidade, transparência e foco em atendimento personalizado, posicionando a Marca Veículos como referência no segmento de seminovos de qualidade.",
@@ -65,18 +102,17 @@
           "text": "Quero mais informações"
         }
       ],
-      "title": "Marca Veículos",
       "disableSpacing": {
-        "top": true,
+        "top": false,
         "bottom": true
       }
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "NorteCar",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/29d92505-b00f-4e38-a147-f3f1ae51278a/giffycanvas_norte.gif",
       "tagline": "#Branding",
-      "title": "NorteCar",
-      "description": "A Marca Veículos chegou até a IndiaAlpha com o desafio de se reinventar. Com uma trajetória consolidada no mercado de seminovos, a empresa precisava de uma nova identidade que transmitisse confiança, credibilidade e uma experiência de compra superior. Nosso rebranding foi além de uma simples renovação visual; criamos uma marca que fala diretamente ao cliente que busca não apenas um veículo, mas uma relação de confiança com quem vende. O resultado foi uma identidade que combina modernidade, transparência e foco em atendimento personalizado, posicionando a Marca Veículos como referência no segmento de seminovos de qualidade.",
+      "description": "NorteCar chegou até a IndiaAlpha com a missão de se estabelecer no mercado automotivo do Norte do Brasil. Como um novo projeto de marketplace de veículos, a marca precisava de uma identidade que transmitisse confiança, inovação e uma conexão autêntica com a região. Nosso trabalho foi além de criar uma marca visualmente atraente; desenvolvemos uma identidade que fala diretamente ao cliente que busca mais do que um simples veículo, mas uma experiência confiável e única. O resultado é uma marca que equilibra modernidade, transparência e acessibilidade.",
       "cta": [
         {
           "href": "https://wa.me/5561982214588",
@@ -116,24 +152,6 @@
         }
       ],
       "placement": "right",
-      "disableSpacing": {
-        "top": false,
-        "bottom": true
-      }
-    },
-    {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "Privia",
-      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/798a783a-7762-43fd-acaf-ee989e7572bc/giffycanvas_privia.gif",
-      "tagline": "#Naming #Branding",
-      "description": "Fomos responsáveis por criar o naming e branding da Privia, a marca de Jo Fernandez, uma consultora brasileira especializada em luxo, atuante na Flórida. A Privia nasceu para revolucionar o conceito de investimento imobiliário, conectando investidores internacionais ao sonho americano de maneira exclusiva e simplificada. Com o propósito de transformar vidas, a Privia vai além da simples venda de propriedades, oferecendo um estilo de vida de luxo acessível, segurança em transações de alto valor e uma experiência personalizada que redefine o padrão de vida.",
-      "cta": [
-        {
-          "href": "https://wa.me/5561982214588",
-          "text": "Quero mais informações"
-        }
-      ],
-      "placement": "left",
       "disableSpacing": {
         "top": false,
         "bottom": true
