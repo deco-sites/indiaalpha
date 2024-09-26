@@ -36,7 +36,7 @@ export default function SimpleFooter({
   return (
     <footer style={{ backgroundColor, color: textColor }} class="py-6">
       <div class="container mx-auto px-4 flex flex-col items-center">
-        <img src={logo} alt={logoAlt} class="h-12 mb-4" />
+        <img src={logo} alt={logoAlt} class="w-[250px] h-[250px] object-contain mb-4" />
         <div class="text-sm text-center" dangerouslySetInnerHTML={{ __html: copyrightText }} />
       </div>
     </footer>
