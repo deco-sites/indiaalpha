@@ -28,15 +28,6 @@
       }
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/RichTextSection.tsx",
-        "title": "Descubra as marcas que já fizeram história com a gente",
-        "subtitle": "<p>wewewewew</p>",
-        "content": "ewewe"
-      }
-    },
-    {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/34c37b81-1b1e-430a-bccf-e8717eda4d10/3---KeyVisual.gif",
       "tagline": "#Rebranding",
@@ -57,7 +48,6 @@
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/29d92505-b00f-4e38-a147-f3f1ae51278a/giffycanvas_norte.gif",
       "tagline": "#Branding",
-      "title": "NorteCar",
       "description": "A Marca Veículos chegou até a IndiaAlpha com o desafio de se reinventar. Com uma trajetória consolidada no mercado de seminovos, a empresa precisava de uma nova identidade que transmitisse confiança, credibilidade e uma experiência de compra superior. Nosso rebranding foi além de uma simples renovação visual; criamos uma marca que fala diretamente ao cliente que busca não apenas um veículo, mas uma relação de confiança com quem vende. O resultado foi uma identidade que combina modernidade, transparência e foco em atendimento personalizado, posicionando a Marca Veículos como referência no segmento de seminovos de qualidade.",
       "cta": [
         {
@@ -65,13 +55,14 @@
           "text": "Quero mais informações"
         }
       ],
+      "title": "NorteCar",
       "placement": "right"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "Leadfy",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/47d041a2-9d08-487c-8311-f5fca9a580b1/leadfy_gif.gif",
       "tagline": "#Rebranding",
+      "title": "Leadfy",
       "description": "A Leadfy chegou à IndiaAlpha com um nome já forte e uma marca provisória, pronta para se transformar em um verdadeiro ícone do setor de tecnologia. Nosso desafio foi criar o branding de uma solução SAAS inovadora, capaz de utilizar Inteligência Amplificada para gerar leads com mais qualidade e eficiência para seus clientes. Sabíamos que estávamos diante de um projeto especial, e nossa missão era construir uma marca à altura desse potencial. O resultado foi uma identidade que não só transmite a força e a inovação da Leadfy, mas também a posiciona entre as grandes empresas do ecossistema de startups. Hoje, a Leadfy é uma marca reconhecida globalmente, presente nos maiores eventos de startups do mundo, refletindo uma jornada de sucesso impulsionada por uma estratégia de branding sólida e visionária.",
       "cta": [
         {
