@@ -16,9 +16,21 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/hero-1.tsx",
+        "title": "<p><strong><span style=\"color: oklch(0.31 0 0); font-size: 80px\">IndiaAlpha: Onde Histórias viram Marcas</span></strong></p>",
+        "subtitle": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações.",
+        "primaryCta": "Quero saber mais",
+        "primaryCtaUrl": "https://wa.me/5561982214588?text=Estou%20no%20site%20da%20IndiaAlpha%20e%20gostaria%20de%20mais%20informações",
+        "backgroundImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/a0e2ed9a-3ef3-4d61-a503-8248898afbdb/andreperotto__A_minimalist_branding_project_presentation_sleek__6a046df9-6103-4c4d-b352-27f4179977ca.png",
+        "secondaryCta": "Agendar uma reunião"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Hero.tsx",
-        "description": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações. ",
         "title": "<p>IndiaAlpha: Onde Histórias viram Marcas</p>",
+        "description": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações. ",
         "cta": [
           {
             "text": "Quero saber Mais",
@@ -58,6 +70,7 @@
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/798a783a-7762-43fd-acaf-ee989e7572bc/giffycanvas_privia.gif",
       "tagline": "#Naming #Branding",
+      "title": "Privia",
       "description": "Fomos responsáveis por criar o naming e branding da Privia, a marca de Jo Fernandez, uma consultora brasileira especializada em luxo, atuante na Flórida. A Privia nasceu para revolucionar o conceito de investimento imobiliário, conectando investidores internacionais ao sonho americano de maneira exclusiva e simplificada. Com o propósito de transformar vidas, a Privia vai além da simples venda de propriedades, oferecendo um estilo de vida de luxo acessível, segurança em transações de alto valor e uma experiência personalizada que redefine o padrão de vida.",
       "cta": [
         {
@@ -65,7 +78,6 @@
           "text": "Quero mais informações"
         }
       ],
-      "title": "Privia",
       "disableSpacing": {
         "top": false,
         "bottom": true
@@ -74,9 +86,9 @@
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "We Split",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/1b5461f7-e269-4643-832a-a502818a2be1/giffycanvas_wesplit.gif",
       "tagline": "#ReBranding",
-      "title": "We Split",
       "description": "A WeSplit é uma Fintech com a missão de promover mudanças positivas e construir um futuro financeiro mais inclusivo para todos. A WeSplit oferece empréstimos para automóveis com taxa fixa e juros de 0%, com aprovação facilitada e limites de crédito mais altos. A WeSplit é mais do que uma plataforma de empréstimos, é uma solução comunitária projetada para desbloquear a acessibilidade a veículos e ajudar canadenses e recém-chegados a assumirem o controle de suas vidas financeiras. Foi fundada em 2023 por Marcelo Ribeiro e tem sua sede em Toronto, ON. (Canadá)",
       "cta": [
         {
@@ -194,17 +206,6 @@
         "__resolveType": "site/sections/footer_indiaalpha.tsx",
         "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/b6dbaba5-3f80-4c6a-90a7-16ecf8941907/IA-5.png",
         "copyrightText": "<p>2k24 - IndiaAlpha - Todos os Direitos Reservados</p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/hero-1.tsx",
-        "title": "<p><strong><span style=\"color: oklch(0.31 0 0); font-size: 80px\">IndiaAlpha: Onde Histórias viram Marcas</span></strong></p>",
-        "subtitle": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações.",
-        "primaryCta": "Quero saber mais",
-        "primaryCtaUrl": "https://wa.me/5561982214588?text=Estou%20no%20site%20da%20IndiaAlpha%20e%20gostaria%20de%20mais%20informações",
-        "backgroundImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/a0e2ed9a-3ef3-4d61-a503-8248898afbdb/andreperotto__A_minimalist_branding_project_presentation_sleek__6a046df9-6103-4c4d-b352-27f4179977ca.png"
       }
     }
   ],
