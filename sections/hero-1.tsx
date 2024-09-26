@@ -1,30 +1,66 @@
+import { ImageWidget } from 'apps/admin/widgets.ts';
+
 interface Props {
   /**
-   * @description The description of name.
+   * @format rich-text
    */
-  name?: string;
+  title?: string;
   /**
-   * @description The description of color.
+   * @format textarea
    */
-  color?: string;
+  subtitle?: string;
+  /**
+   * @description Primary CTA text
+   */
+  primaryCta?: string;
+  /**
+   * @description Primary CTA URL
+   */
+  primaryCtaUrl?: string;
+  /**
+   * @description Secondary CTA text
+   */
+  secondaryCta?: string;
+  /**
+   * @description Secondary CTA URL
+   */
+  secondaryCtaUrl?: string;
+  /**
+   * @description Hero background image
+   */
+  backgroundImage?: ImageWidget;
+  /**
+   * @format color-input
+   */
+  backgroundColor?: string;
+  /**
+   * @format color-input
+   */
+  textColor?: string;
 }
 
-export default function Section({ name = "Capy", color = "green" }: Props) {
+export default function Hero({
+  title = "The best customer experiences",
+  subtitle = "Zendesk provides the complete customer service solution that's easy to use and scales with your business",
+  primaryCta = "Free trial",
+  primaryCtaUrl = "#",
+  secondaryCta = "View demo",
+  secondaryCtaUrl = "#",
+  backgroundImage = "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1818/6fe9404a-f69c-472a-b521-78f6c1f87326",
+  backgroundColor = "#e0f2f1",
+  textColor = "#1f2937",
+}: Props) {
   return (
-    <div class={`bg-${color}-200 p-8 rounded-md shadow-md`}>
-      <h2 class="text-2xl font-semibold mb-4">Fancy Component</h2>
-
-      <div class="space-y-4">
-        <button class={`btn btn-${color}`}>Click me</button>
-
-        <input
-          type="text"
-          class="input input-bordered"
-          placeholder="Type something"
-        />
-
-        <div class={`alert alert-${color}`}>
-          {name}
+    <div class="hero min-h-screen" style={{ backgroundColor }}>
+      <div class="hero-content flex-col lg:flex-row-reverse">
+        <img src={backgroundImage} class="max-w-sm rounded-lg shadow-2xl" alt="Hero" />
+        <div>
+          <h1 class="text-5xl font-bold" style={{ color: textColor }} dangerouslySetInnerHTML={{ __html: title }}></h1>
+          <p class="py-6" style={{ color: textColor }}>{subtitle}</p>
+          <div class="flex gap-4">
+            <a href={primaryCtaUrl} class="btn btn-primary">{primaryCta}</a>
+            <a href={secondaryCtaUrl} class="btn btn-outline" style={{ borderColor: textColor, color: textColor }}>{secondaryCta}</a>
+          </div>
         </div>
       </div>
     </div>
