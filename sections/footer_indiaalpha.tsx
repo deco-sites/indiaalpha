@@ -10,13 +10,10 @@ interface Props {
    */
   logoAlt?: string;
   /**
-   * @description The text for the CTA button
+   * @description The copyright text
+   * @format rich-text
    */
-  ctaText?: string;
-  /**
-   * @description The URL for the CTA button
-   */
-  ctaUrl?: string;
+  copyrightText?: string;
   /**
    * @format color-input
    * @description The background color of the footer
@@ -29,29 +26,18 @@ interface Props {
   textColor?: string;
 }
 
-export default function Footer({
+export default function SimpleFooter({
   logo = "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1818/ff6bb37e-0eab-40e1-a454-86856efc278e",
   logoAlt = "Company Logo",
-  ctaText = "Get Started",
-  ctaUrl = "#",
+  copyrightText = "© 2024 Your Company. All rights reserved.",
   backgroundColor = "#f3f4f6",
   textColor = "#1f2937",
 }: Props) {
   return (
-    <footer style={{ backgroundColor, color: textColor }} class="py-8">
-      <div class="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
-        <div class="mb-4 md:mb-0">
-          <img src={logo} alt={logoAlt} class="h-12" />
-        </div>
-        <div>
-          <a
-            href={ctaUrl}
-            class="btn btn-primary"
-            style={{ backgroundColor: textColor, color: backgroundColor }}
-          >
-            {ctaText}
-          </a>
-        </div>
+    <footer style={{ backgroundColor, color: textColor }} class="py-6">
+      <div class="container mx-auto px-4 flex flex-col items-center">
+        <img src={logo} alt={logoAlt} class="h-12 mb-4" />
+        <div class="text-sm text-center" dangerouslySetInnerHTML={{ __html: copyrightText }} />
       </div>
     </footer>
   );
