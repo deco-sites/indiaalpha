@@ -47,20 +47,63 @@
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/34c37b81-1b1e-430a-bccf-e8717eda4d10/3---KeyVisual.gif"
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/34c37b81-1b1e-430a-bccf-e8717eda4d10/3---KeyVisual.gif",
+      "tagline": "#Rebranding",
+      "title": "Marca Veículos",
+      "description": "A Marca Veículos chegou até a IndiaAlpha com o desafio de se reinventar. Com uma trajetória consolidada no mercado de seminovos, a empresa precisava de uma nova identidade que transmitisse confiança, credibilidade e uma experiência de compra superior. Nosso rebranding foi além de uma simples renovação visual; criamos uma marca que fala diretamente ao cliente que busca não apenas um veículo, mas uma relação de confiança com quem vende. O resultado foi uma identidade que combina modernidade, transparência e foco em atendimento personalizado, posicionando a Marca Veículos como referência no segmento de seminovos de qualidade.",
+      "cta": [
+        {
+          "href": "https://wa.me/5561982214588",
+          "text": "Quero mais informações"
+        }
+      ]
     },
     {
-      "__resolveType": "site/sections/BlogPosts.tsx"
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/34c37b81-1b1e-430a-bccf-e8717eda4d10/3---KeyVisual.gif",
+      "tagline": "#Rebranding",
+      "title": "Marca Veículos",
+      "description": "A Marca Veículos chegou até a IndiaAlpha com o desafio de se reinventar. Com uma trajetória consolidada no mercado de seminovos, a empresa precisava de uma nova identidade que transmitisse confiança, credibilidade e uma experiência de compra superior. Nosso rebranding foi além de uma simples renovação visual; criamos uma marca que fala diretamente ao cliente que busca não apenas um veículo, mas uma relação de confiança com quem vende. O resultado foi uma identidade que combina modernidade, transparência e foco em atendimento personalizado, posicionando a Marca Veículos como referência no segmento de seminovos de qualidade.",
+      "cta": [
+        {
+          "href": "https://wa.me/5561982214588",
+          "text": "Quero mais informações"
+        }
+      ],
+      "placement": "right"
     },
     {
       "__resolveType": "site/sections/Testimonials.tsx",
-      "arrows": true
+      "arrows": true,
+      "title": "Quem já transformou histórias em Marcas",
+      "slides": [
+        {
+          "content": {
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/e8674d73-7e25-4d66-ae48-dc959514c0be/IMG_0985-Photoroom.png",
+            "name": "Jo Fernandez",
+            "position": "CEO - Privia",
+            "description": "Fiquei feliz de ler e de fazer parte de uma das criações da IndiaAlpha, uma empresa que realmente pude sentir que tem significado e propósito.  Saiba que vocês fizeram muito mais do que eu poderia imaginar.   Eu realmente sonhava em ter uma marca incrível mas pensava que esse sonho estava longe, achava que seria difícil de acertar tudo, nome, marca, cores e etc.  Sentia que poderia ter algo legal mas em alguns anos apenas.   Mas Deus sabia o que eu realmente desejava e daí chegou vocês!   Você se conectou exatamente com a minha essência, meus sonhos e meus objetivos com o Real Estate e assim conseguiram criar a Privia que desde a primeira apresentação foi amor a primeira vista, tanto o nome quanto o branding. Sem alterações!"
+          }
+        },
+        {
+          "content": {
+            "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/e8674d73-7e25-4d66-ae48-dc959514c0be/IMG_0985-Photoroom.png",
+            "name": "Jo Fernandez",
+            "position": "CEO - Privia",
+            "description": "Fiquei feliz de ler e de fazer parte de uma das criações da IndiaAlpha, uma empresa que realmente pude sentir que tem significado e propósito.  Saiba que vocês fizeram muito mais do que eu poderia imaginar.   Eu realmente sonhava em ter uma marca incrível mas pensava que esse sonho estava longe, achava que seria difícil de acertar tudo, nome, marca, cores e etc.  Sentia que poderia ter algo legal mas em alguns anos apenas.   Mas Deus sabia o que eu realmente desejava e daí chegou vocês!   Você se conectou exatamente com a minha essência, meus sonhos e meus objetivos com o Real Estate e assim conseguiram criar a Privia que desde a primeira apresentação foi amor a primeira vista, tanto o nome quanto o branding. Sem alterações!"
+          }
+        }
+      ]
     },
     {
-      "__resolveType": "site/sections/Faq.tsx"
-    },
-    {
-      "__resolveType": "Footer"
+      "__resolveType": "site/sections/Footer.tsx",
+      "links": [],
+      "bottomLinks": [],
+      "social": [],
+      "subscribe": {},
+      "logo": {
+        "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/f678dc46-35f6-4675-a71d-28d6b4610ba8/IA-6.png"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
