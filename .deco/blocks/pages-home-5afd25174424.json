@@ -29,7 +29,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Logos.tsx",
-        "title": "Descubra as marcas que já fizeram história com a gente",
+        "title": "Descubra algumas marcas que já fizeram história com a gente",
         "logos": [
           {
             "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/3ce7da16-5c41-412f-bb3e-5c502d4b8c62/Frame-1533210170.png"
