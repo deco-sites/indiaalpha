@@ -68,7 +68,7 @@ export default function HeroFlats({
             }`}
           >
             <div class="inline-block lg:text-[80px] text-4xl leading-none font-medium">
-              {title}
+              {title && title.replace(/<p>/g, '&lt;p&gt;').replace(/<\/p>/g, '&lt;/p&gt;')}
             </div>
             <p class="text-lg md:text-md leading-[150%]">
               {description}
