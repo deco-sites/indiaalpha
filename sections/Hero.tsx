@@ -46,7 +46,7 @@ export default function HeroFlats({
           class={`flex w-full xl:container xl:mx-auto py-20 mx-5 md:mx-10 z-10 ${
             image
               ? PLACEMENT[placement]
-              : "flex-col items-center justify-center text-center"
+              : "flex-col items-center justify-center text-center pb-10"
           } lg:py-36 gap-12 md:gap-20 items-center`}
         >
           {image && (
