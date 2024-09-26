@@ -56,7 +56,11 @@
           "href": "https://wa.me/5561982214588",
           "text": "Quero mais informações"
         }
-      ]
+      ],
+      "disableSpacing": {
+        "top": true,
+        "bottom": true
+      }
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
@@ -84,7 +88,11 @@
           "text": "Quero mais informações"
         }
       ],
-      "placement": "left"
+      "placement": "left",
+      "disableSpacing": {
+        "top": true,
+        "bottom": true
+      }
     },
     {
       "__resolveType": "site/sections/Testimonials.tsx",
