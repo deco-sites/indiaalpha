@@ -43,7 +43,7 @@ export default function HeroFlats({
     <nav class="lg:container lg:mx-auto mx-4">
       <div class="flex flex-col items-center gap-8">
         <div
-          class={`flex w-full xl:container xl:mx-auto py-20 mx-5 md:mx-10 z-10 ${
+          class={`flex w-full xl:container xl:mx-auto py-12 mx-5 md:mx-10 z-10 ${
             image
               ? PLACEMENT[placement]
               : "flex-col items-center justify-center text-center pb-10"
@@ -61,7 +61,7 @@ export default function HeroFlats({
             />
           )}
           <div
-            class={`mx-6 lg:mx-auto lg:w-full space-y-4 gap-4 ${
+            class={`mx-6 lg:mx-auto lg:w-full space-y-3 gap-3 ${
               image
                 ? "lg:w-1/2 lg:max-w-xl"
                 : "flex flex-col items-center justify-center lg:max-w-3xl"
@@ -74,7 +74,7 @@ export default function HeroFlats({
               }}
             >
             </div>
-            <p class="text-lg md:text-md leading-[150%]">
+            <p class="text-base md:text-sm leading-[140%]">
               {description}
             </p>
             <div class="flex items-center gap-3">
