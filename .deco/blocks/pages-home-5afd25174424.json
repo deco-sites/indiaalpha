@@ -108,6 +108,16 @@
           }
         }
       ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/footer_indiaalpha.tsx",
+        "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/053bdea6-464a-4777-b675-7b04c77d92bd/IA-5.png",
+        "backgroundColor": "#1b1b1b",
+        "ctaText": "Entre em Contato",
+        "textColor": "#ffffff"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
