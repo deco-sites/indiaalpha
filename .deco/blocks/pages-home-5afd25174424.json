@@ -3,20 +3,13 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "site/sections/Header.tsx",
-      "navigation": {
-        "links": [
-          {
-            "label": "English Version",
-            "url": "/en"
-          }
-        ],
-        "buttons": []
-      },
-      "logo": {
-        "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/60710582-626e-43d3-aea3-bbb35145a7ce/IA-6_200.png"
-      },
-      "backgroundColor": "#1d1d1d"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Header.tsx",
+        "logo": {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/4af8da6c-2286-4415-9d82-9ccfefcd781b/IA-6_150.png"
+        }
+      }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
