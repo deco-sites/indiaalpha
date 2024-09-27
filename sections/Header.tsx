@@ -51,7 +51,7 @@ export default function Header({
   linkColor = "#ffffff",
 }: Nav) {
   return (
-    <nav class="drawer drawer-end" style={{ backgroundColor }}>
+    <nav class="drawer drawer-end h-20" style={{ backgroundColor }}>
       <input id="mobile-drawer-nav" type="checkbox" class="drawer-toggle" />
 
       {/* main content */}
@@ -108,7 +108,7 @@ export default function Header({
           class="drawer-overlay"
         />
 
-        <div class="flex flex-col gap-6 h-auto w-64 bg-black text-base-content">
+        <div class="flex flex-col gap-6 h-20 w-64 bg-black text-base-content">
           <a class="p-4" href="/">
             <Image
               src={logo.src || ""}
