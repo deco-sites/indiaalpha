@@ -1,3 +1,7 @@
 {
-  "__resolveType": "site/sections/header_IA.tsx"
+  "__resolveType": "site/sections/header_IA.tsx",
+  "navItems": [],
+  "logo": {
+    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/55c205ac-dac8-4d6b-b9fe-ac264b804ce5/ia_black.png"
+  }
 }
