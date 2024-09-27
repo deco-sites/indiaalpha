@@ -26,6 +26,7 @@ export interface Nav {
    * @format color-input
    */
   backgroundColor?: string;
+  linkColor?: string;
 }
 
 export default function Header({
@@ -47,6 +48,7 @@ export default function Header({
     ],
   },
   backgroundColor = "#ffffff",
+  linkColor = "#ffffff",
 }: Nav) {
   return (
     <nav class="drawer drawer-end" style={{ backgroundColor }}>
@@ -65,7 +67,7 @@ export default function Header({
                 <a
                   href={link.url}
                   aria-label={link.label}
-                  class="link no-underline hover:underline p-4"
+                  class="link no-underline hover:underline p-4" style={{ color: linkColor }}
                 >
                   {link.label}
                 </a>
@@ -120,7 +122,7 @@ export default function Header({
           <ul class="menu">
             {navigation?.links.map((link) => (
               <li>
-                <a href={link.url} aria-label={link.label}>
+                <a href={link.url} aria-label={link.label} style={{ color: linkColor }}>
                   {link.label}
                 </a>
               </li>
