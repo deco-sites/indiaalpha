@@ -41,7 +41,7 @@ export default function Hero({
   textColor = "#1f2937",
 }: Props) {
   return (
-    <div class="hero py-16" style={{ backgroundColor }}>
+    <div class="hero py-16 max-w-[1140px] mx-auto" style={{ backgroundColor }}>
       <div class="hero-content flex-col lg:flex-row-reverse">
         <img src={backgroundImage} class="w-full max-w-lg aspect-video object-cover rounded-lg shadow-2xl" alt="Hero" />
         <div>
