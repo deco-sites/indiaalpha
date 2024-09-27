@@ -64,8 +64,8 @@ function Header({ logo, navItems, cta }: Props) {
               <Image
                 src={logo.image || ""}
                 alt={logo.alt || ""}
-                height={logo.height || 100}
-                width={logo.width || 300}
+                height={logo.height || 70}
+                width={logo.width || 200}
               />
             )}
           </a>
