@@ -57,7 +57,7 @@ export default function Header({
       {/* main content */}
       <div class="drawer-content container lg:px-0 px-4 flex gap-8 items-center justify-between py-4">
         <a href="/">
-          <Image src={logo.src || ""} width={100} height={28} alt={logo.alt} class="h-auto" />
+          <Image src={logo.src || ""} width={200} height={200} alt={logo.alt} class="h-auto" />
         </a>
 
         <div class="hidden items-center justify-between lg:flex w-full">
@@ -108,7 +108,7 @@ export default function Header({
           class="drawer-overlay"
         />
 
-        <div class="flex flex-col gap-8 min-h-full w-80 bg-base-100 text-base-content">
+        <div class="flex flex-col gap-8 min-h-full w-80 bg-black text-base-content">
           <a class="p-4" href="/">
             <Image
               src={logo.src || ""}
@@ -122,7 +122,7 @@ export default function Header({
           <ul class="menu">
             {navigation?.links.map((link) => (
               <li>
-                <a href={link.url} aria-label={link.label} style={{ color: linkColor }}>
+                <a href={link.url} aria-label={link.label} style={{ color: "#ffffff" }}>
                   {link.label}
                 </a>
               </li>
