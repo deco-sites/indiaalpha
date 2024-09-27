@@ -51,10 +51,10 @@ export default function Header({
   linkColor = "#ffffff",
 }: Nav) {
   return (
-    <nav class="drawer drawer-end h-[80%]" style={{ backgroundColor }}>
-      <input id="mobile-drawer-nav" type="checkbox" class="drawer-toggle h-[80%]" />
+    <nav class="drawer drawer-end h-[60%]" style={{ backgroundColor }}>
+      <input id="mobile-drawer-nav" type="checkbox" class="drawer-toggle h-[60%]" />
 
-      {/* main content */}
+      {/* Main content */}
       <div class="drawer-content container lg:px-0 px-4 flex gap-8 items-center justify-between py-4">
         <a href="/">
           <Image src={logo.src || ""} width={200} height={200} alt={logo.alt} class="h-auto" />
@@ -99,7 +99,7 @@ export default function Header({
         </label>
       </div>
 
-      {/* sidebar */}
+      {/* Sidebar */}
       <aside class="drawer-side z-50">
         {/* Close when clicking on overlay */}
         <label
@@ -108,7 +108,7 @@ export default function Header({
           class="drawer-overlay"
         />
 
-        <div class="flex flex-col gap-8 h-full w-80 bg-black text-base-content">
+        <div class="flex flex-col gap-6 h-full w-64 bg-black text-base-content">
           <a class="p-4" href="/">
             <Image
               src={logo.src || ""}
@@ -119,7 +119,7 @@ export default function Header({
             />
           </a>
 
-          <ul class="menu">
+          <ul class="menu menu-compact">
             {navigation?.links.map((link) => (
               <li>
                 <a href={link.url} aria-label={link.label} style={{ color: "#ffffff" }}>
@@ -129,7 +129,7 @@ export default function Header({
             ))}
           </ul>
 
-          <ul class="p-4 flex items-center gap-3">
+          <ul class="p-3 flex flex-col items-stretch gap-2">
             {navigation.buttons?.map((item) => (
               <a
                 key={item?.id}
