@@ -5,23 +5,6 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/header_IA.tsx",
-        "logo": {
-          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/20c8184e-a9a9-415b-8978-15261ebf418b/Group-427318078_1.png",
-          "height": 100,
-          "width": 200
-        },
-        "navItems": [
-          {
-            "label": "English Version",
-            "href": "/en"
-          }
-        ]
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/hero-1.tsx",
         "title": "<p><strong><span style=\"color: oklch(0.31 0 0); font-size: 40pt\">IndiaAlpha: Onde Histórias </span></strong><span style=\"font-size: 40pt\"><br></span><strong><span style=\"color: oklch(0.31 0 0); font-size: 40pt\">viram Marcas </span></strong><br><span style=\"color: rgb(116, 160, 248); font-size: 28pt\">&lt;e vice-versa&gt;</span></p>",
         "subtitle": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações.",
@@ -96,9 +79,9 @@
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "Marca Veículos",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/34c37b81-1b1e-430a-bccf-e8717eda4d10/3---KeyVisual.gif",
       "tagline": "#Rebranding",
+      "title": "Marca Veículos",
       "description": "A Marca Veículos chegou até a IndiaAlpha com o desafio de se reinventar. Com uma trajetória consolidada no mercado de seminovos, a empresa precisava de uma nova identidade que transmitisse confiança, credibilidade e uma experiência de compra superior. Nosso rebranding foi além de uma simples renovação visual; criamos uma marca que fala diretamente ao cliente que busca não apenas um veículo, mas uma relação de confiança com quem vende. O resultado foi uma identidade que combina modernidade, transparência e foco em atendimento personalizado, posicionando a Marca Veículos como referência no segmento de seminovos de qualidade.",
       "cta": [
         {
