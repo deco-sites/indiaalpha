@@ -1,5 +1,4 @@
 import { ImageWidget } from "apps/admin/widgets.ts";
-import Image from "apps/website/components/Image.tsx";
 
 interface Props {
   /**
@@ -17,15 +16,13 @@ export default function Header({
   logoAlt = "Company Logo"
 }: Props) {
   return (
-    <header className="bg-base-100 p-4">
-      <div className="container mx-auto">
-        <div className="flex justify-center">
-          <Image
+    <header class="bg-base-100 p-4">
+      <div class="container mx-auto px-4">
+        <div class="flex justify-start">
+          <img
             src={logo}
             alt={logoAlt}
-            width={100}
-            height={200}
-            class="object-contain"
+            class="w-[100px] h-[200px] object-contain"
           />
         </div>
       </div>
