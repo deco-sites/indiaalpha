@@ -10,21 +10,31 @@
           "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/20c8184e-a9a9-415b-8978-15261ebf418b/Group-427318078_1.png",
           "height": 100,
           "width": 200,
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/6891feb7-8015-4883-a41d-7d5507c552a5/IA-6_50.png"
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/indiaalpha/384efd05-c6da-4b01-8d9b-38b319f7a36d/Frame-1533210175.png"
         },
         "navItems": [
           {
             "label": "Portuguese Version",
             "href": "/"
           }
-        ]
+        ],
+        "navigation": {
+          "links": [],
+          "buttons": [
+            {
+              "href": "/en",
+              "text": "English Version",
+              "outline": true
+            }
+          ]
+        }
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/hero-1.tsx",
-        "title": "<p><strong><span style=\"color: oklch(0.31 0 0); font-size: 40pt\">IndiaAlpha: Onde Histórias </span></strong><span style=\"font-size: 40pt\"><br></span><strong><span style=\"color: oklch(0.31 0 0); font-size: 40pt\">viram Marcas </span></strong><br><span style=\"color: rgb(116, 160, 248); font-size: 28pt\">&lt;e vice-versa&gt;</span></p>",
+        "title": "<p><strong><span style=\"color: rgb(116, 160, 248); font-size: 40pt\">IndiaAlpha</span></strong></p><p><span style=\"color: oklch(0.31 0 0); font-size: 28pt\">Marcas que elevam negócios, conectam pessoas e definem&nbsp;o&nbsp;futuro.</span></p>",
         "subtitle": "A IndiaAlpha nasceu do poder da conexão entre irmãos em um momento de superação, com a missão de criar e recriar marcas que refletem verdadeiramente a essência de quem elas representam. Nós acreditamos que marcas autênticas são capazes de impactar não apenas negócios, mas vidas. Com criatividade, empatia e propósito, ajudamos a construir legados que ressoam com pessoas e transformam histórias em inspirações.",
         "primaryCta": "Quero saber mais",
         "primaryCtaUrl": "https://linktr.ee/indiaalpha",
