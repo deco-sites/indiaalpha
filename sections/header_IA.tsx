@@ -1,4 +1,3 @@
-export { default } from "$store/components/header/Header.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 import Image from "apps/website/components/Image.tsx";
 import Icon from "../components/ui/Icon.tsx";
@@ -141,4 +140,3 @@ export default function Header({
     </nav>
   );
 }
-
